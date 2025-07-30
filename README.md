@@ -18,9 +18,10 @@ A simple and intuitive To-Do list web application that allows users to add, dele
 ![To-Do Screenshot](Screenshot.png)
 
 ## 🌐 Live Demo
-[Click Here to View]([http://padoleshital.github.io/Todo-list-js/])
+[Click Here to View](http://padoleshital.github.io/Todo-list-js/)
 
 ## 📁 Folder Structure
+
 ```
 todo-app/
 ├── index.html
